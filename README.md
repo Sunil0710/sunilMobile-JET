@@ -1,2 +1,2 @@
 # sunilMobile-JET
-Mobile App created by using Oracle JET
+Mobile App created using Oracle JET
