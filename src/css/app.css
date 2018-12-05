@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+/* Hides the content area until we are ready to display after paddings have been adjusted. 
+    oj-complete is a marker class that is applied by the appController 
+    after adjusting the content area. */
+.oj-applayout-content:not(.oj-complete) {
+  visibility: hidden;
+}
+
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
